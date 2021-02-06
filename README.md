@@ -6,6 +6,10 @@ I started C# in 2016, but recently committed to developing a more comprehensive 
 * As a reference guide for C# projects
 * As a learning resource for others interested in learning C#
 
+___
+#### To download the notes, [click here](https://github.com/JACPro/C-Sharp-Notes/blob/main/Notes.docx?raw=true "Download Notes.docx").
+___
+
 ## Advanced C# Topics
 These notes mainly cover the core C# features added as part of C# 1. For more advanced topics, I am working on [Advanced C# Notes](https://github.com/JACPro/Advanced-C-Sharp-Notes "JACPro Advanced C# Notes"); a study led by the book *C# in Depth* by Jon Skeet.
 
