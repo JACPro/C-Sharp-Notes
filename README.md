@@ -6,7 +6,8 @@ These notes are intended for personal use.
 I started learning C# in 2016, but in 2021, I endeavoured to produce a detailed set of notes based on the [official C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history "The history of C#") to solidify my understanding and as a reference to help in my future projects.
 
 ___
-#### To download the notes, [click here](https://github.com/JACPro/C-Sharp-Notes/blob/main/Notes.docx?raw=true "Download Notes.docx").
+#### To download the notes as .docx, [click here](https://github.com/JACPro/C-Sharp-Notes/raw/main/Notes.docx "Download Notes.docx").
+#### To download the notes as .pdf, [click here](https://github.com/JACPro/C-Sharp-Notes/raw/main/Notes.pdf "Download Notes.pdf").
 ___
 
 ## Advanced C# Topics
